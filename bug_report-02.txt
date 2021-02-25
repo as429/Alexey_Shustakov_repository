@@ -1,0 +1,9 @@
+BR-02
+summary - Age is calculated wrong by inputing invalid date of birth 
+
+step1 - go to http://tutu-ru.github.io
+step2 - input date of birth with year exceeding the current (for example: 12.02.2054)
+step3 - click "посчитать" button
+
+Expected result - error message is displayed
+Actual result - The age is displayed incorrectly 

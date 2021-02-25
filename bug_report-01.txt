@@ -1,0 +1,9 @@
+BR-01
+summary - Age is calculated wrong by inputing valid date of birth 
+
+step1 - go to http://tutu-ru.github.io
+step2 - input your real date of birth
+step3 - click "посчитать" button
+
+Expected result - your age is displayed correctly
+Actual result - your age is displayed incorrectly 
