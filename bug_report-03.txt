@@ -1,0 +1,8 @@
+BR-03
+summary - nulls are inputed 
+
+step1 - go to http://tutu-ru.github.io
+step2 - input nulls into text field how much will fit
+
+expected result - error message is displayed
+actual result - month and year places are filled with nulls 
