@@ -1,0 +1,8 @@
+BR-04
+summary - getting result without year input
+
+step1 - go to http://tutu-ru.github.io
+step2 - input numbers into day and month places but not year
+
+expected result - error message is displayed
+actual result - some result is displayed 
